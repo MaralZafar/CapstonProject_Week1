@@ -29,6 +29,8 @@ import numpy as np
 print ('Hello Capstone Project Course!')
 
 
+# # End of Week 1 Project
+
 # In[ ]:
 
 
