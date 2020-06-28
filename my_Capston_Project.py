@@ -1,0 +1,36 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# # 1. **capston project**
+
+# # This notebook is for capston project
+
+# In[1]:
+
+
+import pandas as pd
+
+
+# In[10]:
+
+
+pip install numpy
+
+
+# In[11]:
+
+
+import numpy as np
+
+
+# In[12]:
+
+
+print ('Hello Capstone Project Course!')
+
+
+# In[ ]:
+
+
+
+
